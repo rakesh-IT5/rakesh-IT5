@@ -1,16 +1,18 @@
-## Hi there 👋
+### 👋 Hi there, I'm Rakesh Thodeti
 
-<!--
-**rakesh-IT5/rakesh-IT5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **DevOps Engineer** passionate about cloud infrastructure, automation, and building efficient CI/CD pipelines.  
+Skilled in **AWS**, **Terraform**, **Docker**, **Kubernetes**, **Jenkins**, and more. I enjoy applying Infrastructure as Code (IaC) to real-world problems and continuously learning tools that improve deployment speed, scalability, and reliability.
 
-Here are some ideas to get you started:
+🔧 **Tech I'm working with**:  
+AWS • Docker • Jenkins • GitHub Actions • Terraform • Kubernetes • Linux • Python • Prometheus & Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Goals**:  
+- Automate cloud deployments using Terraform and Ansible  
+- Build scalable CI/CD pipelines with GitHub Actions and Jenkins  
+- Contribute to open-source DevOps tools  
+- Crack AWS Certified DevOps Engineer Associate in the future
+
+📫 **Let's connect**:  
+[LinkedIn](https://www.linkedin.com/in/rakesh-thodeti55/) | [GitHub](https://github.com/rakesh-IT5)
+
+> “Automate everything. Break nothing.”
