@@ -13,6 +13,6 @@ AWS • Docker • Jenkins • GitHub Actions • Terraform • Kubernetes • L
 - Crack AWS Certified DevOps Engineer Associate in the future
 
 📫 **Let's connect**:  
-[LinkedIn](https://www.linkedin.com/in/rakesh-thodeti55/) | [GitHub](https://github.com/rakesh-IT5)
+[LinkedIn](https://www.linkedin.com/in/rakesh-thodeti-cloud-devops/) | [GitHub](https://github.com/rakesh-IT5)
 
 > “Automate everything. Break nothing.”
